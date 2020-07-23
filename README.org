@@ -1,2 +1,6 @@
-#+TITLE: Readme
+* Hi there! 👋 I'm Diego 👨‍💻
 
+** Find me around the web 🌎:
+
+Email: [[mailto:diego.canada@icloud.com][iCloud]]
+LinkedIn: [[https://www.linkedin.com/in/d1egoaz/][d1egoaz]]

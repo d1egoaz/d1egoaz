@@ -1,7 +1,7 @@
-* Hi there! 👋 
-
-I'm =nix-shell -p figlet -p lolcat --run "figlet D1egoaz | lolcat --freq 0.5"=
-[[https://user-images.githubusercontent.com/950087/108881863-a0f86e00-75b8-11eb-8df6-5f0ce13ab45b.png]]
+* Hi there! 👋
 
 - Email: [[mailto:diego.canada@icloud.com][iCloud]]
 - LinkedIn: [[https://www.linkedin.com/in/d1egoaz/][d1egoaz]]
+
+[[https://github-readme-stats.vercel.app/api?username=d1egoaz&count_private=true&show_icons=true]]
+<img src="https://github-readme-stats.vercel.app/api?username=d1egoaz&count_private=true&show_icons=true"/>

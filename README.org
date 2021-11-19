@@ -1,7 +1,0 @@
-* Hi there! 👋
-
-- Email: [[mailto:diego.canada@icloud.com][iCloud]]
-- LinkedIn: [[https://www.linkedin.com/in/d1egoaz/][d1egoaz]]
-
-[[https://github-readme-stats.vercel.app/api?username=d1egoaz&count_private=true&show_icons=true]]
-<img src="https://github-readme-stats.vercel.app/api?username=d1egoaz&count_private=true&show_icons=true"/>
